@@ -1,2 +1,1 @@
-# technical-support
-Technical support
+# Technical support
