@@ -9,7 +9,7 @@ You will find on *Discord* dedicated channels where the other participants (stud
 
 ## Technical support
 
-> 🤖 For specific tasks, you will need me...
+> 🤖 For specific tasks, you will need me...  
 > My bionic brain is only connected to this repository, this is the only way to contact me and I'll use it to get back to you.
 
 ### Create a new ticket
