@@ -75,6 +75,10 @@ If I need help from someone else to complete your request, I'll assign the label
 - [OpenLayers](https://openlayers.org/)
 - [Leaflet](https://leafletjs.com/)
 
+### Miscellaneous
+
+- [saltify.io](https://www.saltify.io/), if you need to share credentials
+
 ---
 
 [^1]: **If needed**, we can provide a dedicated server for your project. In your request, explain why you need a server and can't use Netlify, GitHub Pages, or similar solutions for your project.
