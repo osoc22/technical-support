@@ -70,6 +70,7 @@ If I need help from someone else to complete your request, I'll assign the label
 - [Netlify](https://www.netlify.com/) documentation: <https://docs.netlify.com/>
 - [Docker](https://www.docker.com/) documentation: <https://docs.docker.com/>
 - [Digital Ocean App Platform](https://www.digitalocean.com/products/app-platform/) documentation: <https://docs.digitalocean.com/products/app-platform/>
+- [Supabase](https://supabase.com/) documentation: <https://supabase.com/docs>
 
 ### Maps
 
