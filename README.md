@@ -1,6 +1,6 @@
-# Open Summer of Code 2021 - Technical Support
+# Open Summer of Code 2022 - Technical Support
 
-> 🤖 Welcome, you've reached the (almost automated) oSoc'21 technical support!
+> 🤖 Welcome, you've reached the (almost automated) oSoc'22 technical support!
 
 ## There is no stupid question
 
@@ -32,9 +32,9 @@ At any time, you'll be able to see the status of your request in the [triage boa
 
 Your request will have one of the following priorities:
 
-1. [`priority-1`](https://github.com/osoc21/technical-support/labels/priority%201): I will take care of it immediately
-2. [`priority-2`](https://github.com/osoc21/technical-support/labels/priority%202): I will take care of it as soon as possible 
-3. [`priority-3`](https://github.com/osoc21/technical-support/labels/priority%203): I will take care of it when I have a moment
+1. [`priority-1`](https://github.com/osoc22/technical-support/labels/priority%201): I will take care of it immediately
+2. [`priority-2`](https://github.com/osoc22/technical-support/labels/priority%202): I will take care of it as soon as possible 
+3. [`priority-3`](https://github.com/osoc22/technical-support/labels/priority%203): I will take care of it when I have a moment
 
 If I need more information from you, I'll assign the label [`question`](https://github.com/osoc21/technical-support/labels/question)!  
 If I need help from someone else to complete your request, I'll assign the label [`help wanted`](https://github.com/osoc21/technical-support/labels/help%20wanted)!
@@ -45,7 +45,7 @@ If I need help from someone else to complete your request, I'll assign the label
 
 #### GitHub
 
-- You need to create a new repository in oSoc'21 GitHub organization
+- You need to create a new repository in oSoc'22 GitHub organization
 - You need to add/remove a member to your GitHub team
 - You need to give access to someone to your repository
 - ...
